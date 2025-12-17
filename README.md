@@ -2,14 +2,6 @@
 A simple and interactive web-based tool that allows users to upload an image, choose a color, and remove that color by making it transparent.
 Built using HTML, CSS, and JavaScript.
 
-**⭐ Features**
-1.Upload any image
-2.Pick a color using the built-in color picker
-3.Automatically remove the selected color
-4.Live preview using HTML Canvas
-5.Simple and responsive UI
-
-
 **🛠 Technologies Used**
 HTML → Structure and layout
 CSS → Styling and UI design
